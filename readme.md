@@ -9,7 +9,7 @@ Revisar a través de una consola local, los mensajes enviados por nuestro servid
 
 **Resolucion del desafio:**
 
-URL de la entrega desplegada en [Heroku](https://ch-desafio17.herokuapp.com/)
+La aplicacion desplegada en **Heroku** se puede ver en [https://ch-desafio17.herokuapp.com/](https://ch-desafio17.herokuapp.com/)
 
 Comando para ver log de forma local: `heroku logs`
 
